@@ -4,7 +4,7 @@ namespace Frock_backend.transport_Company.Domain.Model.Aggregates
 {
     public class Company
     {
-        public int Id { get; }
+        public int Id { get; protected set; }
         public string Name { get; set; }
         public string? LogoUrl { get; set; }
         public int FkIdUser { get; set; }

@@ -35,20 +35,8 @@ public class RequestAuthorizationMiddleware(RequestDelegate next)
         // get token from request header
         var token = context.Request.Headers["Authorization"].FirstOrDefault()?.Split(" ").Last();
 
-
-        // if token is null then throw exception
-        //if (token == null) throw new Exception("Null or invalid token");
-
         // validate token
         var userId = await tokenService.ValidateToken(token);
-
-        // if token is invalid then throw exception
-        //if (userId == null) throw new Exception("Invalid token");
-
-        // get user by id
-       /// var getUserByIdQuery = new GetUserByIdQuery(userId.Value);
-
-        // set user in HttpContext.Items["User"]
 
         //var user = await userQueryService.Handle(getUserByIdQuery);
         Console.WriteLine("Successful authorization. Updating Context...");
@@ -61,7 +49,5 @@ public class RequestAuthorizationMiddleware(RequestDelegate next)
 
         }
         await next(context);
-        return;
-
     }
 }

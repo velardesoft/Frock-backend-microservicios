@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\python\\Frock-backend-microservicios\\routes\\routes.csproj": {}
+    "D:\\microservicios\\Frock-backend-microservicios\\routes\\routes.csproj": {}
   },
   "projects": {
-    "D:\\python\\Frock-backend-microservicios\\routes\\routes.csproj": {
+    "D:\\microservicios\\Frock-backend-microservicios\\routes\\routes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\python\\Frock-backend-microservicios\\routes\\routes.csproj",
+        "projectUniqueName": "D:\\microservicios\\Frock-backend-microservicios\\routes\\routes.csproj",
         "projectName": "routes",
-        "projectPath": "D:\\python\\Frock-backend-microservicios\\routes\\routes.csproj",
+        "projectPath": "D:\\microservicios\\Frock-backend-microservicios\\routes\\routes.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "D:\\python\\Frock-backend-microservicios\\routes\\obj\\",
+        "outputPath": "D:\\microservicios\\Frock-backend-microservicios\\routes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

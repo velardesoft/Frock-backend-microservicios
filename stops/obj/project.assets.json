@@ -11011,11 +11011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\python\\Frock-backend-microservicios\\stops\\stops.csproj",
+      "projectUniqueName": "D:\\microservicios\\Frock-backend-microservicios\\stops\\stops.csproj",
       "projectName": "stops",
-      "projectPath": "D:\\python\\Frock-backend-microservicios\\stops\\stops.csproj",
+      "projectPath": "D:\\microservicios\\Frock-backend-microservicios\\stops\\stops.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "D:\\python\\Frock-backend-microservicios\\stops\\obj\\",
+      "outputPath": "D:\\microservicios\\Frock-backend-microservicios\\stops\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
