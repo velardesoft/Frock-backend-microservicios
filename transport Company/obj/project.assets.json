@@ -11011,11 +11011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\microservicios\\Frock-backend-microservicios\\transport Company\\transport Company.csproj",
+      "projectUniqueName": "D:\\microservicios\\Frock-backend-microservicioss\\transport Company\\transport Company.csproj",
       "projectName": "transport Company",
-      "projectPath": "D:\\microservicios\\Frock-backend-microservicios\\transport Company\\transport Company.csproj",
+      "projectPath": "D:\\microservicios\\Frock-backend-microservicioss\\transport Company\\transport Company.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "D:\\microservicios\\Frock-backend-microservicios\\transport Company\\obj\\",
+      "outputPath": "D:\\microservicios\\Frock-backend-microservicioss\\transport Company\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

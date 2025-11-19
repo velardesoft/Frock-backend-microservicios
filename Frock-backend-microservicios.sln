@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stops", "stops\stops.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transport Company", "transport Company\transport Company.csproj", "{402100BE-0051-4360-A524-7986C06DF4FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway", "ApiGateway\ApiGateway.csproj", "{F9ED0596-E162-40F8-9FEE-5421AE8AF828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "suscriptions", "suscriptions\suscriptions.csproj", "{3A744054-9442-4789-8379-AB9152CEBACE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{402100BE-0051-4360-A524-7986C06DF4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{402100BE-0051-4360-A524-7986C06DF4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{402100BE-0051-4360-A524-7986C06DF4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9ED0596-E162-40F8-9FEE-5421AE8AF828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9ED0596-E162-40F8-9FEE-5421AE8AF828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9ED0596-E162-40F8-9FEE-5421AE8AF828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9ED0596-E162-40F8-9FEE-5421AE8AF828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A744054-9442-4789-8379-AB9152CEBACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A744054-9442-4789-8379-AB9152CEBACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A744054-9442-4789-8379-AB9152CEBACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A744054-9442-4789-8379-AB9152CEBACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\microservicios\\Frock-backend-microservicios\\stops\\stops.csproj": {}
+    "D:\\microservicios\\Frock-backend-microservicioss\\stops\\stops.csproj": {}
   },
   "projects": {
-    "D:\\microservicios\\Frock-backend-microservicios\\stops\\stops.csproj": {
+    "D:\\microservicios\\Frock-backend-microservicioss\\stops\\stops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\microservicios\\Frock-backend-microservicios\\stops\\stops.csproj",
+        "projectUniqueName": "D:\\microservicios\\Frock-backend-microservicioss\\stops\\stops.csproj",
         "projectName": "stops",
-        "projectPath": "D:\\microservicios\\Frock-backend-microservicios\\stops\\stops.csproj",
+        "projectPath": "D:\\microservicios\\Frock-backend-microservicioss\\stops\\stops.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "D:\\microservicios\\Frock-backend-microservicios\\stops\\obj\\",
+        "outputPath": "D:\\microservicios\\Frock-backend-microservicioss\\stops\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
